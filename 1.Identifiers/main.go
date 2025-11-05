@@ -6,7 +6,6 @@ import (
 	"identifiers/export"
 )
 
-// who is your daddy
 // exported variable
 var ExportedVariable = "Hello, World!"
 
